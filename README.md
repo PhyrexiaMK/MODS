@@ -22,8 +22,8 @@ Skada			          - v1.7.2
 GTFO			          - v4.43.5
 Parrot 2		        - v2.0.10
 Atlasloot 		      - v8.07.01
-RCLootCouncil		    - v2.5.5
-Oilvl               - v6.7.17
+RCLootCouncil		    - v2.6.0
+Oilvl               - v6.7.20
 
 ************************************ Sources ****************************************
 
