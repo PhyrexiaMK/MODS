@@ -17,7 +17,7 @@ Elvui			          - v10.68
 DBM			            - v7.3.6
 Angry Assignments	  - v1.9.0
 WeakAuras 2		      - v2.4.25
-KUINameplates		    - v2.15.1
+KUINameplates		    - v2.15.2
 Skada			          - v1.7.2
 GTFO			          - v4.43.5
 Parrot 2		        - v2.0.10
