@@ -14,21 +14,21 @@ Last Check: 04-10-2017
 
 Elvui			          - v10.68 
 
-DBM			            - v7.3.6
+DBM			            - v7.3.7
 Angry Assignments	  - v1.9.0
 WeakAuras 2		      - v2.4.25
 KUINameplates		    - v2.15.2
 Skada			          - v1.7.2
-GTFO			          - v4.43.5
+GTFO			          - v4.43.6
 Parrot 2		        - v2.0.10
-Atlasloot 		      - v8.07.01
-RCLootCouncil		    - v2.6.1
-Oilvl               - v6.7.26
+Atlasloot 		      - v8.07.04
+RCLootCouncil		    - v2.7.0beta
+Pawn                - v2.2.15
 
 ************************************ Sources ****************************************
 
 https://www.tukui.org/
-https://mods.curse.com/search
+https://www.curseforge.com/wow/addons/search?search=
 
 **************************************************************************************
 
