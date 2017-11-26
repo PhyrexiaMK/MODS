@@ -20,7 +20,6 @@ WeakAuras 2		      - v2.4.25
 KUINameplates		    - v2.15.2
 Skada			          - v1.7.2
 GTFO			          - v4.43.7
-Parrot 2		        - v2.0.10
 Atlasloot 		      - v8.07.05
 RCLootCouncil		    - v2.7.0beta2
 Pawn                - v2.2.15
@@ -37,3 +36,8 @@ https://www.curseforge.com/wow/addons/search?search=
                             ╔═╗┬ ┬┬ ┬┬─┐┌─┐─┐ ┬┬┌─┐╔╦╗╦╔═
                             ╠═╝├─┤└┬┘├┬┘├┤ ┌┴┬┘│├─┤║║║╠╩╗
                             ╩  ┴ ┴ ┴ ┴└─└─┘┴ └─┴┴ ┴╩ ╩╩ ╩
+                            
+                            
+Reserve
+
+Parrot 2		        - v2.0.10
