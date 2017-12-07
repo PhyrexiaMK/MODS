@@ -12,19 +12,18 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			          - v10.68 
+Elvui			                  - v10.69 
 
-DBM			            - v7.3.7
-Angry Assignments	  - v1.9.0
-WeakAuras 2		      - v2.4.25
-KUINameplates		    - v2.15.2
-Skada			          - v1.7.2
-GTFO			          - v4.43.8
-Atlasloot 		      - v8.07.05
-RCLootCouncil		    - v2.7.1
-Pawn                - v2.2.15
-Oilvl               - v6.7.27
-Doom Shards         - v25
+DBM			                    - v7.3.10
+Angry Assignments	          - v1.9.0
+WeakAuras 2		              - v2.4.25
+KUINameplates		            - v2.15.2
+Skada			                  - v1.7.2
+GTFO			                  - v4.44
+Atlasloot 		              - v8.07.05
+RCLootCouncil		            - v2.7.3
+Oilvl                       - v6.7.32
+advancedinterfaceoptions    - v1.2.2
 
 ************************************ Sources ****************************************
 
