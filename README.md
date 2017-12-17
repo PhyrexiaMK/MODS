@@ -21,7 +21,7 @@ KUINameplates		            - v2.15.2
 Skada			                  - v1.7.2
 GTFO			                  - v4.44.2
 Atlasloot 		              - v8.07.05
-RCLootCouncil		            - v2.7.4
+RCLootCouncil		            - v2.7.5
 Oilvl                       - v6.7.34
 advancedinterfaceoptions    - v1.2.2
 Pawn                        - v2.2.15
