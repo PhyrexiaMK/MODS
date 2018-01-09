@@ -14,9 +14,9 @@
 
 Elvui			                  - v10.70
 
-DBM			                    - v7.3.15
+DBM			                    - v7.3.16
 Angry Assignments	          - v1.9.0
-WeakAuras 2		              - v2.5.2
+WeakAuras 2		              - v2.5.3
 KUINameplates		            - v2.15.2
 Skada			                  - v1.7.2
 GTFO			                  - v4.44.2
@@ -24,7 +24,7 @@ Atlasloot 		              - v8.07.06
 RCLootCouncil		            - v2.7.5
 Oilvl                       - v6.7.34
 advancedinterfaceoptions    - v1.2.2
-Pawn                        - v2.2.17
+Pawn                        - v2.2.17a
 
 ************************************ Sources ****************************************
 
