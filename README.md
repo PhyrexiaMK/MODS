@@ -24,8 +24,7 @@ Atlasloot 		              - v8.07.07
 RCLootCouncil		            - v2.7.7
 Oilvl                       - v6.7.34
 advancedinterfaceoptions    - v1.2.2
-Pawn                        - v2.2.17a
-Immersion                   - v0.5.4
+Pawn                        - v2.2.18
 Addon Control Panel         - v3.4.35
 
 ************************************ Sources ****************************************
