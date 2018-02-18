@@ -14,7 +14,7 @@
 
 Elvui			                  - v10.72
 
-DBM			                    - v7.3.21
+DBM			                    - v7.3.22
 Angry Assignments	          - v1.9.0
 WeakAuras 2		              - v2.5.6
 KUINameplates		            - v2.15.3
