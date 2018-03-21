@@ -20,8 +20,8 @@ WeakAuras 2		              - v2.5.7
 KUINameplates		            - v2.15.4a
 Skada			                  - v1.7.2
 GTFO			                  - v4.44.3
-Atlasloot 		              - v8.07.10
-RCLootCouncil		            - v2.7.8
+Atlasloot 		              - v8.07.11
+RCLootCouncil		            - v2.7.9
 Oilvl                       - v6.7.35
 advancedinterfaceoptions    - v1.2.2
 Pawn                        - v2.2.18
