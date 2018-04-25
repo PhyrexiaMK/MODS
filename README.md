@@ -17,12 +17,12 @@ Elvui			                  - v10.73
 DBM			                    - v7.3.26
 Angry Assignments	          - v1.9.1
 WeakAuras 2		              - v2.5.10
-KUINameplates		            - v2.15.4a
+KUINameplates		            - v2.15.5
 Skada			                  - v1.7.2
-GTFO			                  - v4.44.3
+GTFO			                  - v4.45.1
 Atlasloot 		              - v8.07.12
 RCLootCouncil		            - v2.7.9
-Oilvl                       - v6.7.36
+Oilvl                       - v6.7.37
 advancedinterfaceoptions    - v1.2.2
 Pawn                        - v2.2.18
 Addon Control Panel         - v3.4.35
