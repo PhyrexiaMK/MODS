@@ -12,22 +12,26 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v10.75
+Elvui			                  - v10.77
 
 DBM			                    - v8.0.0
-Angry Assignments	          - v1.9.1
+Angry Assignments	          - v1.10.0
 WeakAuras 2		              - v2.6.0
-KUINameplates		            - v2.16a
+KUINameplates		            - v2.16.1
 Skada			                  - v1.7.3
 GTFO			                  - v4.46
-Atlasloot 		              - v8.07.13
-RCLootCouncil		            - v2.7.11
-Oilvl                       - v6.7.37
-advancedinterfaceoptions    - v1.2.3
+3
+RCLootCouncil		            - v2.8.0
+
+advancedinterfaceoptions    - v1.2.4
 Pawn                        - v2.2.20
-Addon Control Panel         - v3.4.39
+
 
 ************************************ Sources ****************************************
+
+Atlasloot 		              - v8.07.1
+Oilvl                       - v6.7.37
+Addon Control Panel         - v3.4.39
 
 https://www.tukui.org/
 https://www.curseforge.com/wow/addons/search?search=
