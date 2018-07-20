@@ -20,7 +20,7 @@ WeakAuras 2		              - v2.6.0
 KUINameplates		            - v2.16.1
 Skada			                  - v1.7.3
 GTFO			                  - v4.46
-3
+
 RCLootCouncil		            - v2.8.0
 
 advancedinterfaceoptions    - v1.2.4
