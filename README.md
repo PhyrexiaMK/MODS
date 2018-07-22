@@ -24,7 +24,7 @@ GTFO			                  - v4.46
 RCLootCouncil		            - v2.8.0
 
 advancedinterfaceoptions    - v1.2.4
-Pawn                        - v2.2.20
+Pawn                        - v2.2.21
 
 
 ************************************ Sources ****************************************
