@@ -17,7 +17,7 @@ Elvui			                  - v10.79
 DBM			                    - v8.0.4
 Angry Assignments	          - v1.10.1
 WeakAuras 2		              - v2.7.2
-KUINameplates		            - v2.16.4b3
+KUINameplates		            - v2.16.4b6
 Skada			                  - v1.7.5
 GTFO			                  - v4.46.2
 Atlasloot 		              - v8.08.00b2
