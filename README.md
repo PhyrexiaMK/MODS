@@ -19,9 +19,9 @@ Angry Assignments	          - v1.11.1
 WeakAuras 2		              - v2.7.7
 KUINameplates		            - v2.17.5
 Skada			                  - v1.7.5
-GTFO			                  - v4.46.5
+GTFO			                  - v4.46.6
 Atlasloot 		              - v8.08.00b2
-RCLootCouncil		            - v2.8.3
+RCLootCouncil		            - v2.9.0
 Oilvl                       - v8.0.1 Inspect Fix
 advancedinterfaceoptions    - v1.2.4
 Pawn                        - v2.2.28
