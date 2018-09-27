@@ -17,7 +17,7 @@ Elvui			                  - v10.82
 DBM			                    - v8.0.10
 Angry Assignments	          - v1.11.1
 WeakAuras 2		              - v2.7.10
-KUINameplates		            - vbeta-dancing-crocodile-swimming-giraffe
+KUINameplates		            - beta-relaxing-snake-beaming-panda
 Skada			                  - v1.7.5
 GTFO			                  - v4.46.8
 Atlasloot 		              - v8.08.00
