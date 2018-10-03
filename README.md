@@ -14,16 +14,16 @@
 
 Elvui			                  - v10.82
 
-DBM			                    - v8.0.10
+DBM			                    - v8.0.11
 Angry Assignments	          - v1.11.1
-WeakAuras 2		              - v2.7.10
-KUINameplates		            - beta-relaxing-snake-beaming-panda
+WeakAuras 2		              - v2.8.1
+KUINameplates		            - beta-milling-wolf-caring-hippo
 Skada			                  - v1.7.5
-GTFO			                  - v4.46.8
+GTFO			                  - v4.46.9
 Atlasloot 		              - v8.08.00
 RCLootCouncil		            - v2.9.0
 Oilvl                       - v8.0.2
-advancedinterfaceoptions    - v1.2.4
+advancedinterfaceoptions    - v1.2.8
 Pawn                        - v2.2.28
 Addon Control Panel         - v3.5.0
 
