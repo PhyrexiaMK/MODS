@@ -14,14 +14,14 @@
 
 Elvui			                  - v10.83
 
-DBM			                    - v8.0.15
+DBM			                    - v8.0.17
 Angry Assignments	          - v1.11.3
-WeakAuras 2		              - 2.10.0-beta1
-KUINameplates		            - beta-crouching-panda-smiling-eagle
+WeakAuras 2		              - 2.10.2
+KUINameplates		            - beta-bathing-hamster-eating-zebra
 Skada			                  - v1.7.5
 GTFO			                  - v4.46.10
 Atlasloot 		              - v8.08.02
-RCLootCouncil		            - v2.9.3
+RCLootCouncil		            - v2.9.4
 Oilvl                       - v8.0.2
 advancedinterfaceoptions    - v1.2.8
 Pawn                        - v2.2.31
