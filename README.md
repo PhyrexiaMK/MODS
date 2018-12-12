@@ -12,11 +12,11 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v10.83
+Elvui			                  - v10.84
 
-DBM			                    - v8.0.17
+DBM			                    - v8.1.0
 Angry Assignments	          - v1.11.3
-WeakAuras 2		              - 2.10.2
+WeakAuras 2		              - 2.10.9
 KUINameplates		            - beta-bathing-hamster-eating-zebra
 Skada			                  - v1.7.5
 GTFO			                  - v4.46.10
