@@ -17,14 +17,14 @@ Elvui			                  - v10.84
 DBM			                    - v8.1.0
 Angry Assignments	          - v1.11.3
 WeakAuras 2		              - 2.10.9
-KUINameplates		            - beta-bathing-hamster-eating-zebra
+KUINameplates		            - 2.18.2
 Skada			                  - v1.7.5
-GTFO			                  - v4.46.10
-Atlasloot 		              - v8.08.02
-RCLootCouncil		            - v2.9.4
-Oilvl                       - v8.0.2
-advancedinterfaceoptions    - v1.2.8
-Pawn                        - v2.2.31
+GTFO			                  - v4.46.11
+Atlasloot 		              - v8.09.00
+RCLootCouncil		            - v2.9.5
+Oilvl                       - v8.0.2 WoW 8.1 version update
+advancedinterfaceoptions    - v1.2.9
+Pawn                        - v2.2.32
 Addon Control Panel         - v3.5.0
 
 ************************************ Sources ****************************************
