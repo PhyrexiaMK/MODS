@@ -16,10 +16,10 @@ Elvui			                  - v10.84
 
 DBM			                    - v8.1.0
 Angry Assignments	          - v1.11.3
-WeakAuras 2		              - 2.10.9
-KUINameplates		            - 2.18.2
+WeakAuras 2		              - 2.10.11
+KUINameplates		            - beta-sprinting-pig-eating-dolphin
 Skada			                  - v1.7.5
-GTFO			                  - v4.46.11
+GTFO			                  - v4.46.12
 Atlasloot 		              - v8.09.00
 RCLootCouncil		            - v2.9.5
 Oilvl                       - v8.0.2 WoW 8.1 version update
