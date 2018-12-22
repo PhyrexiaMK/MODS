@@ -14,8 +14,8 @@
 
 Elvui			                  - v10.84
 
-DBM			                    - v8.1.0
-Angry Assignments	          - v1.11.3
+DBM			                    - v8.1.1
+Angry Assignments	          - v1.11.4
 WeakAuras 2		              - 2.10.11
 KUINameplates		            - beta-sprinting-pig-eating-dolphin
 Skada			                  - v1.7.5
