@@ -12,20 +12,20 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v10.84
+Elvui			                  - v10.85
 
-DBM			                    - v8.1.1
-Angry Assignments	          - v1.11.4
+DBM			                    - 8.1.1
+Angry Assignments	          - 2.11.0-beta2
 WeakAuras 2		              - 2.10.11
-KUINameplates		            - beta-sprinting-pig-eating-dolphin
-Skada			                  - v1.7.5
-GTFO			                  - v4.46.12
-Atlasloot 		              - v8.09.00
-RCLootCouncil		            - v2.9.5
-Oilvl                       - v8.0.2 WoW 8.1 version update
-advancedinterfaceoptions    - v1.2.9
-Pawn                        - v2.2.32
-Addon Control Panel         - v3.5.0
+KUINameplates		            - 2.19
+Skada			                  - 1.7.5
+GTFO			                  - 4.46.12
+Atlasloot 		              - 8.09.00
+RCLootCouncil		            - 2.9.5
+Oilvl                       - 8.0.2 WoW 8.1 version update
+advancedinterfaceoptions    - 1.2.9
+Pawn                        - 2.2.33
+Addon Control Panel         - 3.5.0
 
 ************************************ Sources ****************************************
 
