@@ -15,16 +15,16 @@
 Elvui			                  - v10.85
 
 DBM			                    - 8.1.1
-Angry Assignments	          - 2.11.0-beta2
-WeakAuras 2		              - 2.10.11
-KUINameplates		            - 2.19
+Angry Assignments	          - 1.11.5
+WeakAuras 2		              - 2.11.0
+KUINameplates		            - beta-caring-fox-sparkling-carp
 Skada			                  - 1.7.5
 GTFO			                  - 4.46.12
 Atlasloot 		              - 8.09.00
 RCLootCouncil		            - 2.9.5
 Oilvl                       - 8.0.2 WoW 8.1 version update
 advancedinterfaceoptions    - 1.2.9
-Pawn                        - 2.2.33
+Pawn                        - 2.2.34
 Addon Control Panel         - 3.5.0
 
 ************************************ Sources ****************************************
