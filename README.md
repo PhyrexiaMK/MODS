@@ -14,15 +14,15 @@
 
 Elvui			                  - v10.85
 
-DBM			                    - 8.1.1
+DBM			                    - 8.1.2
 Angry Assignments	          - 1.11.5
-WeakAuras 2		              - 2.11.0
-KUINameplates		            - beta-caring-fox-sparkling-carp
+WeakAuras 2		              - 2.11.1
+KUINameplates		            - beta-roaring-cow-beaming-vampire
 Skada			                  - 1.7.5
-GTFO			                  - 4.46.12
+GTFO			                  - 4.46.13
 Atlasloot 		              - 8.09.00
 RCLootCouncil		            - 2.9.5
-Oilvl                       - 8.0.2 WoW 8.1 version update
+Oilvl                       - 8.0.2
 advancedinterfaceoptions    - 1.2.9
 Pawn                        - 2.2.34
 Addon Control Panel         - 3.5.0
