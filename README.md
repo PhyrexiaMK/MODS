@@ -14,17 +14,17 @@
 
 Elvui			                  - v10.85
 
-DBM			                    - 8.1.2
+DBM			                    - 8.1.6
 Angry Assignments	          - 1.11.5
 WeakAuras 2		              - 2.11.1
-KUINameplates		            - beta-roaring-cow-beaming-vampire
+KUINameplates		            - beta-dancing-cheetah-hovering-ostrich
 Skada			                  - 1.7.5
-GTFO			                  - 4.46.13
+GTFO			                  - 4.46.15
 Atlasloot 		              - 8.09.00
-RCLootCouncil		            - 2.9.5
-Oilvl                       - 8.0.2
+RCLootCouncil		            - 2.9.7
+Oilvl                       - v8.0.2 WoW 8.1 version update
 advancedinterfaceoptions    - 1.2.9
-Pawn                        - 2.2.34
+Pawn                        - 2.2.35
 Addon Control Panel         - 3.5.0
 
 ************************************ Sources ****************************************
