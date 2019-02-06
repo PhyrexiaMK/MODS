@@ -14,17 +14,17 @@
 
 Elvui			                  - v10.87
 
-DBM			                    - 8.1.7
+DBM			                    - 8.1.8
 Angry Assignments	          - 1.11.5
-WeakAuras 2		              - 2.11.2
-KUINameplates		            - 2.20
+WeakAuras 2		              - 2.11.3
+KUINameplates		            - beta-hiking-bear-beaming-lion
 Skada			                  - 1.7.5
-GTFO			                  - 4.46.16
+GTFO			                  - 4.46.17
 Atlasloot 		              - 8.09.00
 RCLootCouncil		            - 2.9.7
 Oilvl                       - v8.0.2 WoW 8.1 version update
 advancedinterfaceoptions    - 1.2.9
-Pawn                        - 2.2.35
+Pawn                        - 2.2.36
 Addon Control Panel         - 3.5.0
 
 ************************************ Sources ****************************************
