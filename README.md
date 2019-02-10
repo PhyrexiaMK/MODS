@@ -17,11 +17,11 @@ Elvui			                  - v10.87
 DBM			                    - 8.1.8
 Angry Assignments	          - 1.11.5
 WeakAuras 2		              - 2.11.3
-KUINameplates		            - beta-hiking-bear-beaming-lion
+KUINameplates		            - beta-chuckling-rhino-beaming-moose
 Skada			                  - 1.7.5
 GTFO			                  - 4.46.17
 Atlasloot 		              - 8.09.00
-RCLootCouncil		            - 2.9.7
+RCLootCouncil		            - 2.10.0
 Oilvl                       - v8.0.2 WoW 8.1 version update
 advancedinterfaceoptions    - 1.2.9
 Pawn                        - 2.2.36
