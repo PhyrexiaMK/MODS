@@ -14,7 +14,7 @@
 
 Elvui			                  - v10.87
 
-DBM			                    - 8.1.8
+DBM			                    - 8.1.9
 Angry Assignments	          - 1.11.5
 WeakAuras 2		              - 2.11.3
 KUINameplates		            - beta-chuckling-rhino-beaming-moose
