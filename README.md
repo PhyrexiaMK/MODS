@@ -12,12 +12,12 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v10.87
+Elvui			                  - v10.91
 
-DBM			                    - 8.1.10
-Angry Assignments	          - 1.11.5
-WeakAuras 2		              - 2.11.3
-KUINameplates		            - beta-sparkling-moose-loving-beard
+DBM			                    - 8.1.11
+Angry Assignments	          - 1.11.6
+WeakAuras 2		              - 2.11.6
+KUINameplates		            - 2.21
 Skada			                  - 1.7.5
 GTFO			                  - 4.46.17
 Atlasloot 		              - 8.09.00
