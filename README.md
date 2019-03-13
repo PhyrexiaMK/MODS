@@ -12,7 +12,7 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v10.92
+Elvui			                  - v11.02
 
 DBM			                    - 8.1.11
 Angry Assignments	          - 1.11.6
@@ -24,7 +24,7 @@ Atlasloot 		              - 8.09.00
 RCLootCouncil		            - 2.10.1
 Oilvl                       - v8.0.2 WoW 8.1 version update
 advancedinterfaceoptions    - 1.2.9
-Pawn                        - 2.2.37
+Pawn                        - 2.2.39
 Addon Control Panel         - 3.5.0
 
 ************************************ Sources ****************************************
