@@ -14,7 +14,7 @@
 
 Elvui			                  - v11.06
 
-DBM			                    - 8.1.12
+DBM			                    - 8.1.13
 Angry Assignments	          - 1.11.6
 WeakAuras 2		              - 2.11.6
 KUINameplates		            - 2.21
