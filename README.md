@@ -13,8 +13,8 @@
 **************************************************************************************
 
 Elvui			                  - v11.10
-DBM			                    - 8.1.23
-Angry Assignments	          - 1.11.7
+DBM			                    - 8.1.24
+Angry Assignments	          - 1.11.8
 WeakAuras 2		              - 2.12.3
 KUINameplates		            - 2.22.1
 Skada			                  - 1.7.5
