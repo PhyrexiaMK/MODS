@@ -13,15 +13,15 @@
 **************************************************************************************
 
 Elvui			                  - v11.11
-DBM			                    - 8.1.24
+DBM			                    - 8.1.26
 Angry Assignments	          - 1.11.8
 WeakAuras 2		              - 2.12.3
 KUINameplates		            - 2.22.1
 Skada			                  - 1.7.5
-GTFO			                  - 4.48
+GTFO			                  - 4.48.1
 RCLootCouncil		            - 2.10.2
 Oilvl                       - v8.0.2 WoW 8.1 version update
-advancedinterfaceoptions    - 1.2.9
+advancedinterfaceoptions    - 1.2.11
 Pawn                        - 2.2.41
 Addon Control Panel         - 3.5.0
 
