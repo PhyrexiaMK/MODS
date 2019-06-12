@@ -15,8 +15,8 @@
 Elvui			                  - v11.12
 DBM			                    - 8.1.26
 Angry Assignments	          - 1.11.8
-WeakAuras 2		              - 2.12.4.1
-KUINameplates		            - 2.23
+WeakAuras 2		              - 2.12.4.2
+KUINameplates		            - 2.23.1
 Skada			                  - 1.7.5
 GTFO			                  - 4.48.1
 RCLootCouncil		            - 2.10.3
