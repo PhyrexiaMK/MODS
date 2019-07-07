@@ -12,17 +12,17 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v11.14
-DBM			                    - 8.2.1
-Angry Assignments	          - 1.11.8
-WeakAuras 2		              - 2.13.2
-KUINameplates		            - beta-flying-llama-eating-vampire
-Skada			                  - 1.7.5
+Elvui			                  - v11.16
+DBM			                    - 8.2.2
+Angry Assignments	          - 1.11.9
+WeakAuras 2		              - 2.13.4
+KUINameplates		            - 2.24
+Skada			                  - 1.7.6
 GTFO			                  - 4.48.3
 RCLootCouncil		            - 2.12.1
 Oilvl                       - v8.0.2 WoW 8.2 version update
 advancedinterfaceoptions    - 1.3.0
-Pawn                        - 2.2.42
+Pawn                        - 2.2.43
 Addon Control Panel         - 3.5.0
 
 ************************************ Sources ****************************************
