@@ -12,17 +12,17 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v11.16
-DBM			                    - 8.2.2
+Elvui			                  - v11.18
+DBM			                    - 8.2.3
 Angry Assignments	          - 1.11.9
 WeakAuras 2		              - 2.13.4
 KUINameplates		            - 2.24
 Skada			                  - 1.7.6
-GTFO			                  - 4.48.3
+GTFO			                  - 4.48.5
 RCLootCouncil		            - 2.12.1
 Oilvl                       - v8.0.2 WoW 8.2 version update
 advancedinterfaceoptions    - 1.3.0
-Pawn                        - 2.2.43
+Pawn                        - 2.2.45
 Addon Control Panel         - 3.5.0
 
 ************************************ Sources ****************************************
