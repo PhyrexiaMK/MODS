@@ -18,7 +18,7 @@ Angry Assignments	          - 1.11.9
 WeakAuras 2		              - 2.13.4
 KUINameplates		            - 2.24
 Skada			                  - 1.7.6
-GTFO			                  - 4.48.5
+GTFO			                  - 4.48.6
 RCLootCouncil		            - 2.12.1
 Oilvl                       - v8.0.2 WoW 8.2 version update
 advancedinterfaceoptions    - 1.3.0
