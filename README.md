@@ -12,8 +12,8 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v11.20
-DBM			                    - 8.2.12
+Elvui			                  - v11.21
+DBM			                    - 8.2.13
 Angry Assignments	          - 1.11.9
 WeakAuras 2		              - 2.13.4
 KUINameplates		            - 2.24
