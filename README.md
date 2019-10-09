@@ -12,7 +12,7 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v11.23
+Elvui			                  - v11.24
 DBM			                    - 8.2.22
 Angry Assignments	          - 1.11.10
 WeakAuras 2		              - 2.15.2
