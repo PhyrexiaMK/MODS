@@ -13,13 +13,13 @@
 **************************************************************************************
 
 Elvui			                  - v11.24
-DBM			                    - 8.2.24
+DBM			                    - 8.2.25
 Angry Assignments	          - 1.12.0
-WeakAuras 2		              - 2.15.4
+WeakAuras 2		              - 2.15.5
 KUINameplates		            - 2.25
 Skada			                  - 1.7.6
 GTFO			                  - 4.51
-RCLootCouncil		            - 2.14.0
+RCLootCouncil		            - 2.15.0
 Oilvl                       - v8.2.1+
 advancedinterfaceoptions    - 1.3.3
 Pawn                        - 2.3.9
