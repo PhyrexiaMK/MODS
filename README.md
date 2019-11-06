@@ -22,7 +22,7 @@ GTFO			                  - 4.51
 RCLootCouncil		            - 2.15.0
 Oilvl                       - v8.2.1+
 advancedinterfaceoptions    - 1.3.3
-Pawn                        - 2.3.10
+Pawn                        - 2.3.11
 Addon Control Panel         - 3.5.6
 
 ************************************ Sources ****************************************
