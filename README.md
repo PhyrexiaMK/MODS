@@ -23,7 +23,6 @@ RCLootCouncil		            - 2.19.2
 advancedinterfaceoptions    - 1.3.4
 Pawn                        - 2.3.29
 Addon Control Panel         - 3.5.7
-Rarescanner                 - 8.5.5
 
 ************************************ Sources ****************************************
 
