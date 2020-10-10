@@ -21,8 +21,9 @@ Skada			                  - 1.7.7
 GTFO			                  - 4.56
 RCLootCouncil		            - 2.19.3
 advancedinterfaceoptions    - 1.3.4
-Pawn                        - 2.3.35
+Pawn                        - 2.3.36
 Addon Control Panel         - 3.5.7
+WorldBossTimers             - 1.5.2
 
 ************************************ Sources ****************************************
 
