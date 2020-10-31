@@ -12,16 +12,16 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v12.05
+Elvui			                  - v12.06
 DBM			                    - 9.0.2
-Angry Assignments	          - 1.14.0
-WeakAuras 2		              - 3.0.4
-KUINameplates		            - 2.26.3e
+Angry Assignments	          - 1.14.2
+WeakAuras 2		              - 3.0.5
+KUINameplates		            - beta-dancing-dik-dik-swimming-rhino
 Skada			                  - 1.8.2
 GTFO			                  - 4.56.2
 RCLootCouncil		            - 2.19.3 X
-advancedinterfaceoptions    - 1.4.0
-Pawn                        - 2.4.1
+advancedinterfaceoptions    - 1.4.1
+Pawn                        - 2.4.2
 Addon Control Panel         - 3.5.7 X
 
 ************************************ Sources ****************************************
