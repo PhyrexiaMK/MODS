@@ -13,15 +13,15 @@
 **************************************************************************************
 
 Elvui			                  - v12.12
-DBM			                    - 9.0.3
+DBM			                    - 9.0.4
 Angry Assignments	          - 1.14.2
 WeakAuras 2		              - 3.0.6
-KUINameplates		            - beta-dancing-dik-dik-swimming-rhino
+KUINameplates		            - beta-caring-kookaburra-running-tamarin
 Skada			                  - 1.8.2
 GTFO			                  - 4.56.3
 RCLootCouncil		            - 3.0.0
 advancedinterfaceoptions    - 1.4.1
-Pawn                        - 2.4.5
+Pawn                        - 2.4.6
 Addon Control Panel         - 3.5.7 X
 
 ************************************ Sources ****************************************
