@@ -12,15 +12,15 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v12.13
-DBM			                    - 9.0.4
+Elvui			                  - v12.16
+DBM			                    - 9.0.6
 Angry Assignments	          - 1.14.2
-WeakAuras 2		              - 3.1.1
-KUINameplates		            - beta-caring-kookaburra-running-tamarin
+WeakAuras 2		              - 3.1.2
+KUINameplates		            - 2.27.1a
 Skada			                  - 1.8.3
 GTFO			                  - 4.56.3
-RCLootCouncil		            - 3.0.0
-advancedinterfaceoptions    - 1.4.1
+RCLootCouncil		            - 3.0.1
+advancedinterfaceoptions    - 1.4.2
 Pawn                        - 2.4.6
 
 ************************************ Sources ****************************************
