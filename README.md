@@ -18,10 +18,10 @@ Angry Assignments	          - 1.14.2
 WeakAuras 2		              - 3.1.2
 KUINameplates		            - 2.27.1a
 Skada			                  - 1.8.3
-GTFO			                  - 4.56.3
+GTFO			                  - 4.56.6
 RCLootCouncil		            - 3.0.1
-advancedinterfaceoptions    - 1.4.2
-Pawn                        - 2.4.6
+advancedinterfaceoptions    - 1.4.3
+Pawn                        - 2.4.7
 
 ************************************ Sources ****************************************
 
