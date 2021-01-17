@@ -18,7 +18,7 @@ Angry Assignments	          - 1.14.2
 WeakAuras 2		              - 3.1.8
 KUINameplates		            - 2.27.2
 Details			                - 9.0.2.8102.144
-GTFO			                  - 4.57.4
+GTFO			                  - 4.59
 RCLootCouncil		            - 3.1.4
 advancedinterfaceoptions    - 1.4.3
 Pawn                        - 2.4.10
