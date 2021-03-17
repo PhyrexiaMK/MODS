@@ -17,7 +17,7 @@ DBM			                    - 9.0.22
 Angry Assignments	          - 1.14.2
 WeakAuras 2		              - 3.2.1
 KUINameplates		            - 2.27.2
-Details			                - DetailsRetail.9.0.2.8316.144
+Details			                - DetailsRetail.9.0.5.8357.144
 GTFO			                  - 4.62
 RCLootCouncil		            - 3.1.5
 advancedinterfaceoptions    - 1.4.3
