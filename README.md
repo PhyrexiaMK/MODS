@@ -12,10 +12,10 @@
 /console floatingCombatTextCombatDamage 1
 **************************************************************************************
 
-Elvui			                  - v12.23
-DBM			                    - 9.0.22
+Elvui			                  - v12.24
+DBM			                    - 9.0.24
 Angry Assignments	          - 1.14.2
-WeakAuras 2		              - 3.2.1
+WeakAuras 2		              - 3.2.2
 KUINameplates		            - 2.27.2
 Details			                - DetailsRetail.9.0.5.8357.144
 GTFO			                  - 4.62
