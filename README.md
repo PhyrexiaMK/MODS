@@ -13,14 +13,14 @@
 **************************************************************************************
 
 Elvui			                  - v12.24
-DBM			                    - 9.0.24
+DBM			                    - 9.0.25
 Angry Assignments	          - 1.14.2
 WeakAuras 2		              - 3.2.2
 KUINameplates		            - 2.27.2
 Details			                - DetailsRetail.9.0.5.8357.144
 GTFO			                  - 4.62
 RCLootCouncil		            - 3.1.5
-advancedinterfaceoptions    - 1.4.3
+advancedinterfaceoptions    - 1.4.4
 Pawn                        - 2.4.17
 
 ************************************ Sources ****************************************
